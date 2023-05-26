@@ -1,6 +1,6 @@
 # Weather-dashboard
 
-# Live to live application: https://deepsnow6.github.io/Weather-dashboard/
+## Live to live application: https://deepsnow6.github.io/Weather-dashboard/
 
 ## Project Description
 
