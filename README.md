@@ -2,7 +2,7 @@
 
 ## Live to live application: https://deepsnow6.github.io/Weather-dashboard/
 
-[screencapture-deepsnow6-github-io-Weather-dashboard-2023-05-25-23_09_53.pdf](https://github.com/deepsnow6/Weather-dashboard/files/11571745/screencapture-deepsnow6-github-io-Weather-dashboard-2023-05-25-23_09_53.pdf)
+![Screen Shot][screencapture-deepsnow6-github-io-Weather-dashboard-2023-05-25-23_09_53.pdf](https://github.com/deepsnow6/Weather-dashboard/files/11571745/screencapture-deepsnow6-github-io-Weather-dashboard-2023-05-25-23_09_53.pdf)
 
 
 ## Project Description
